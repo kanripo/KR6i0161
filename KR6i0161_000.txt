@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說長者音悅經
+#+DATE: 2015-08-30 20:11:32.232047
+#+PROPERTY: JUAN 0
